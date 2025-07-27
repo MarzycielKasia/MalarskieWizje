@@ -1,0 +1,1 @@
+console.log('Malarskie Wizje loaded');
